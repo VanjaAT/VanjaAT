@@ -1,7 +1,9 @@
 Hello there 👋
 
 A Full-Stack Developer by day ☼ and ☾;
+
 Full-Stack Developer at one of the biggest austrian IT companies;
+
 Open-source contributor for great software;
 
 
