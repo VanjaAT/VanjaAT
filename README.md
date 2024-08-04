@@ -1,16 +1,13 @@
-Hello there 👋
+# Hello there 👋
 
-A Full-Stack Developer by day ☼ and ☾;
+**I'm a Full-Stack Developer**
 
-Full-Stack Developer at one of the biggest austrian IT companies;
+
+Currently working at one of the biggest Austrian IT companies;
 
 Open-source contributor for great software;
 
-
-⚙️ I use daily: .cs, .js, .jsx, .html, .css, .sql
-
-🌍 I'm mostly active within the C# and NextJS community
-
-💅 Primary interests: C#, React (NextJS), Docker, Cloud, AI
-
-💬 fell free ping me about design, development, ideas
+ - ⚙️ I use daily: .cs, .js, .jsx, .html, .css, .sql 
+ - 🌍 I'm mostly active within the C# and NextJS community
+ - 💅 Primary interests: C#, React (NextJS), Docker, Cloud, AI
+ - 💬 Fell free ping me about design, development, ideas
